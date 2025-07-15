@@ -32,7 +32,7 @@ Each VPC contains:
 
 ## Screenshot of Success
 
-![Ping Test](ping-success.png)
+![Ping Test](<img width="822" height="511" alt="ping success" src="https://github.com/user-attachments/assets/600f3c6b-496b-4513-87d8-af86f8f2370d" />)
 
 The ping test confirms that the EC2 instance in VPC-A can reach the EC2 in VPC-B.
 
